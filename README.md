@@ -1,16 +1,16 @@
-## Hi there 👋
+### Olá 👋
 
-<!--
-**AneteRF/AneteRF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###### Sobre a Anete
+Desenvolvo soluções empresariais com as soluções da Power Platform, como Power Apps e Automate. Isso inclui a criação de aplicativos de negócios personalizados e fluxos de trabalho automatizados para melhorar a eficiência e produtividade da empresa.
+Principais ferramentas:
+###### Power apps;
+###### Power Automate;
+###### Dynamics 365;
+###### Dataverse;
+###### Sharepoint;
+###### JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Detalhes
+
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=AneteRF&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
