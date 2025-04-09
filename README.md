@@ -13,4 +13,4 @@ Principais ferramentas:
 
 ### Detalhes
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=AneteRF&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AneteRF&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
